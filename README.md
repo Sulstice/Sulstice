@@ -4,12 +4,12 @@ My career timeline in short:
 
 ```
 
-Natural Product  Medicinal Chemistry  Bioinformtician/           Development       Forcefield
-   Chemistry     Drug Design          Startup Tech World         Operations        Developer
-   /             /                    /                         /                  /
-  /             /                    /                         /                  /
-2014          2015               2017                        2020                2021
-/............./..................../........................./................../
+Natural Product  Medicinal Chemistry  Organo-       Bioinformtician/          Development        Forcefield
+   Chemistry     Drug Design          Metallics     Startup (Series A & B)    Operations         Developer
+   /             /                   /             /                          /                  /
+  /             /                   /             /                          /                  /
+2014          2015                2016          2017                       2020               2021
+/............./.................../............./........................./................../
 
 
 ```
