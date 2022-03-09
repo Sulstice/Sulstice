@@ -4,7 +4,7 @@ My career timeline in short:
 
 ```
 
-Natural Product  Medicinal Chemistry  Organo-       Bioinformtician/          Development        Forcefield
+Natural Product  Medicinal Chemistry  Organo-       Scientist/Engineer        Development        Forcefield
    Chemistry     Drug Design          Metallics     Startup (Series A & B)    Operations         Developer
    /             /                   /             /                          /                  /
   /             /                   /             /                          /                  /
