@@ -1,6 +1,6 @@
 Hello, I'm Sul. 
 
-My career timeline in short:
+#### Career Timeline:
 
 ```
 
@@ -14,7 +14,7 @@ Natural Product  Medicinal Chemistry  Organo-       Scientist/Engineer        De
 
 ```
 
-A Little Background:
+#### Background:
 
 I develop a lot of tools to help me with my research for stuff, mostly revolving what I think is cheminformatics. 
 Feel free to download or use whatever in your own as well. Or if you want to chat then send me an e-mail, I swear I don't bite.
