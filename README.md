@@ -38,11 +38,6 @@ I develop a lot of tools to help me with my research. Feel free to download or u
 &nbsp
 &nbsp
 &nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
 <a href="https://github.com/Sulstice/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulstice&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
