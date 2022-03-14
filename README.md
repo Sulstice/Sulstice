@@ -27,6 +27,8 @@ Natural Product  Medicinal Chemistry  Organo-       Scientist/Engineer        De
 - [Dr. Chris Mueller](https://www.linkedin.com/in/christopher-mueller-phd/): Client Management, and Software Python Mid Layer Architecture
 - [Dr. Robert Zeigler](https://www.linkedin.com/in/robert-zeigler-0055491/): Automated Scientific Workflow Construction & Philosophy for an Enterprise Software
 - [Blake Printy](https://www.linkedin.com/in/blake-printy-10419764/): Python Package Coding Paradigms and Design
+- [Dr. John Eargle](https://www.linkedin.com/in/jeargle/): Debugging Software, 1-D Dimensional Data Storage, Database Migrations, Node Network Design. 
+- [Juan Rodiguez](https://www.linkedin.com/in/juanrod1/): Front-End Design for Enterprise Software Using VueJS, Design Theory, Node Modules Package Management
 - [James Ryan](https://www.linkedin.com/in/james-ryan-6545412/): Large Scale Database Design, Management, and how to develop efficient big data queries.
 - [Chris Burke](https://www.linkedin.com/in/deizel/): Development operations on large scale using cloud based toolings. Financial aspects of code development
 - [Dr. Paween Mahinthichaichan](https://www.linkedin.com/in/paween-mahinthichaichan-91b87526/): Statistical Analysis and Manipulation of Numbers to Infer Meaning in Data Analysis for Molecular Dynamic Simulations
