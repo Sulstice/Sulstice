@@ -2,7 +2,7 @@ Hello, I'm Sulstice.
 
 #### Career Timeline:
 
-I like to tackle any job that defines itself as "challenging" will probably be more fun. The more you learn the more you can connect the dots, and I feel like the hardest positions in life you learn the most. Don't exactly know where I will go next...
+My philosophy is: I like to tackle any job that defines itself as "challenging" will, most likely, probably be more fun. The more you learn the more you can connect the dots, and I feel like the hardest positions in life you learn the most. Don't exactly know where I will go next...
 
 ```
 
@@ -31,16 +31,13 @@ I develop a lot of tools to help me with my research. Feel free to download or u
             ;
          ._/
 
+
 #### Stats:
 
 <a href="https://github.com/Sulstice/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulstice" />
+  <img align="center" width="380" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulstice" />
 </a>
-&nbsp
-&nbsp
-&nbsp
-&nbsp
 <a href="https://github.com/Sulstice/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sulstice&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="center"  width="450" src="https://github-readme-stats.vercel.app/api?username=sulstice&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
