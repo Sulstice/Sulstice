@@ -1,4 +1,4 @@
-Hello, I'm Sul. 
+Hello, I'm Sulstice. 
 
 #### Career Timeline:
 
@@ -16,8 +16,7 @@ Natural Product  Medicinal Chemistry  Organo-       Scientist/Engineer        De
 
 #### Background:
 
-I develop a lot of tools to help me with my research for stuff, mostly revolving what I think is cheminformatics. 
-Feel free to download or use whatever in your own as well. Or if you want to chat then send me an e-mail, I swear I don't bite.
+I develop a lot of tools to help me with my research. Feel free to download or use whatever in your own as well. Or if you want to chat then send me an e-mail then feel free to reach out. 
 
 
           .'.'
@@ -30,4 +29,3 @@ Feel free to download or use whatever in your own as well. Or if you want to cha
             ;
          ._/
 
-Happy Science and Engineering!
