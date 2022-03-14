@@ -29,3 +29,7 @@ I develop a lot of tools to help me with my research. Feel free to download or u
             ;
          ._/
 
+#### Stats:
+
+[![Sulstice GitHub stats](https://github-readme-stats.vercel.app/api?username=sulstice)](https://github.com/anuraghazra/github-readme-stats)
+
