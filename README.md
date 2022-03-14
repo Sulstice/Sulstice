@@ -2,6 +2,8 @@ Hello, I'm Sulstice.
 
 #### Career Timeline:
 
+I like to tackle any job that defines itself as "challenging" will probably be more fun. The more you learn the more you can connect the dots, and I feel like the hardest positions in life you learn the most. Don't exactly know where I will go next...
+
 ```
 
 Natural Product  Medicinal Chemistry  Organo-       Scientist/Engineer        Development        Forcefield
