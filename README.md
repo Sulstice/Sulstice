@@ -34,7 +34,7 @@ Natural Product  Medicinal Chemistry  Organo-       Scientist/Engineer        De
 - [Dr. Paween Mahinthichaichan](https://www.linkedin.com/in/paween-mahinthichaichan-91b87526/): Statistical Analysis and Manipulation of Numbers to Infer Meaning in Data Analysis for Molecular Dynamic Simulations
 - [Dr. Anmol Kumar](https://www.linkedin.com/in/anmol-kumar-a73248160/): Where is the electron? Quantum Chemistry and a lot of math.
 - [Dr. Jana Shen](https://www.linkedin.com/in/jana-shen-1ba7ab1b/): Molecular Dynamic Simulation Setup, Design, and Analysis for biopolymers. 
-- [Dr. Alexander MacKerell Jr.](https://www.linkedin.com/in/alexander-mackerell-03863928/): Forcefield Development, Quantum Chemistry, and Ethics. 
+- [Dr. Alexander MacKerell Jr.](https://www.linkedin.com/in/alexander-mackerell-03863928/): Graduate Advisor, Forcefield Development, Quantum Chemistry, and Ethics. 
 
 #### About Me:
 
