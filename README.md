@@ -61,7 +61,7 @@ I guess I know HTML really well.
 - [Dr. Paween Mahinthichaichan](https://www.linkedin.com/in/paween-mahinthichaichan-91b87526/): Statistical Analysis and Manipulation of Numbers to Infer Meaning in Data Analysis for Molecular Dynamic Simulations
 - [Dr. Anmol Kumar](https://www.linkedin.com/in/anmol-kumar-a73248160/): Where is the electron? Quantum Chemistry and a lot of math.
 
-# Graduate Advisor 
+#### Graduate Advisor 
 
 - [Dr. Alexander MacKerell Jr.](https://www.linkedin.com/in/alexander-mackerell-03863928/): Graduate Advisor, Forcefield Development, Quantum Chemistry, and Ethics. 
 
