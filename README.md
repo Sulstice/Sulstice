@@ -8,10 +8,10 @@ My philosophy is: I like to go after something "challenging" and that will, most
 
 Natural Product  Medicinal Chemistry  Organo-       Scientist/Engineer        Development        Forcefield
    Chemistry     Drug Design          Metallics     Startup (Series A & B)    Operations         Developer
-   /             /                   /             /                          /                  /
-  /             /                   /             /                          /                  /
-2014          2015                2016          2017                       2020               2021
-/............./.................../............./........................./................../
+   /             /                   /             /                          /                  /                                    /
+  /             /                   /             /                          /                  /                                    /
+2014          2015                2016          2017                       2020               2021                                  2025
+/............./.................../............./........................./................../...................................../
 
 
 ```
